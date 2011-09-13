@@ -1,0 +1,704 @@
+TOR_test1
+v7
+r0
+t337597980.379055
+cCheck dependencies
+cProcessInfoPlistFile /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/Info.plist OR_test1-Info.plist
+cCompileXIB /Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib
+cCompileXIB /Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib
+cCpResource build/Release-iphonesimulator/OR_test1.app/cookie_monster.gif cookie_monster.gif
+cCpResource build/Release-iphonesimulator/OR_test1.app/point.png point.png
+cCpResource build/Release-iphonesimulator/OR_test1.app/rect.png ../../../Desktop/rect.png
+cCpResource build/Release-iphonesimulator/OR_test1.app/cookie_monster_bigger.png cookie_monster_bigger.png
+cProcessPCH /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch.gch OR_test1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/main.o /Users/ishai_jaffe/Documents/tests/OR_test1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1AppDelegate.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1ViewController.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/ImageUtils.o /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OverlayView.o /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/IntegralImage.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Feature.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Feature.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Layer.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/HassienDetector.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Descriptor.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Descriptor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/TestView.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/UIImageResizing.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/UIImageResizing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1 normal i386
+cGenerateDSYMFile /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app.dSYM /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1
+cTouch /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000004AD4F4D80000000000006500
+t1255470296
+s25856
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC121DB00000000000004FE
+t1287725531
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Desktop/rect.png
+c000000004E65DB17000000000000046A
+t1315298071
+s1130
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m
+c000000004E669DA40000000000000A2E
+t1315347876
+s2606
+i"ImageUtils.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h
+c000000004E6F0E5400000000000001F5
+t1315901012
+s501
+i<UIKit/UIKit.h>
+i"ImageUtils.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m
+c000000004E6F19E900000000000007A4
+t1315903977
+s1956
+i"OverlayView.h"
+i"ImageUtils.h"
+i"Feature.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/niw-iphone_opencv_test-ed28886/opencv_device/lib/libcv.a
+c000000004C8B94BA00000000003FC168
+t1284215994
+s4178280
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/niw-iphone_opencv_test-ed28886/opencv_device/lib/libcxcore.a
+c000000004C8B94BA00000000002E3118
+t1284215994
+s3027224
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Descriptor.h
+c000000004E65DCB300000000000001C2
+t1315298483
+s450
+i<Foundation/Foundation.h>
+i"IntegralImage.h"
+i"Feature.h"
+i"Layer.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Descriptor.m
+c000000004E65DD3E0000000000001953
+t1315298622
+s6483
+i"Descriptor.h"
+i<math.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Feature.h
+c000000004E65E0D3000000000000018B
+t1315299539
+s395
+i<Foundation/Foundation.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Feature.m
+c000000004E660B73000000000000026C
+t1315310451
+s620
+i"Feature.h"
+i<math.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.h
+c000000004E668423000000000000022E
+t1315341347
+s558
+i<Foundation/Foundation.h>
+i"IntegralImage.h"
+i"Layer.h"
+i"Feature.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m
+c000000004E668E250000000000001DE1
+t1315343909
+s7649
+i"HassienDetector.h"
+i<math.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.h
+c000000004E65E57D0000000000000305
+t1315300733
+s773
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m
+c000000004E6F19990000000000000DE4
+t1315903897
+s3556
+i"IntegralImage.h"
+i<math.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.h
+c000000004E65CA65000000000000037E
+t1315293797
+s894
+i<Foundation/Foundation.h>
+i"IntegralImage.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m
+c000000004E6681130000000000000B29
+t1315340563
+s2857
+i"Layer.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.h
+c000000004C8BB46900000000000001D7
+t1284224105
+s471
+i<UIKit/UIKit.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m
+c000000004C8BB4690000000000000A82
+t1284224105
+s2690
+i"OR_test1AppDelegate.h"
+i"OR_test1ViewController.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h
+c000000004E6705530000000000000321
+t1315374419
+s801
+i<UIKit/UIKit.h>
+i"OverlayView.h"
+i"TestView.h"
+i"IntegralImage.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m
+c000000004E6F1D2A00000000000027E1
+t1315904810
+s10209
+i"OR_test1ViewController.h"
+i"IntegralImage.h"
+i"Feature.h"
+i"HassienDetector.h"
+i"Descriptor.h"
+i<CoreGraphics/CoreGraphics.h>
+i"UIImageResizing.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.h
+c000000004E6F1A030000000000000191
+t1315904003
+s401
+i<Foundation/Foundation.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m
+c000000004E6F1E9B0000000000000677
+t1315905179
+s1655
+i"TestView.h"
+i"Feature.h"
+i<math.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/UIImageResizing.h
+c000000004E6EFE3A000000000000012A
+t1315896890
+s298
+i<Foundation/Foundation.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/UIImageResizing.m
+c000000004E6EFE300000000000001348
+t1315896880
+s4936
+i"UIImageResizing.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib
+c000000004C8BB4690000000000004E35
+t1284224105
+s20021
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib
+c000000004E6705B70000000000007CD5
+t1315374519
+s31957
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1_Prefix.pch
+c000000004C8BB46900000000000000B9
+t1284224105
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Descriptor.o
+t1315300859
+s18412
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Feature.o
+t1315310597
+s13792
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/HassienDetector.o
+t1315345141
+s23764
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/ImageUtils.o
+t1315374218
+s9452
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/IntegralImage.o
+t1315904551
+s19956
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Layer.o
+t1315340758
+s18260
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1.LinkFileList
+c000000004E670488000000000000067F
+t1315374216
+s1663
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1AppDelegate.o
+t1315904550
+s53916
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1ViewController.o
+t1315904882
+s67020
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OverlayView.o
+t1315904551
+s45420
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/TestView.o
+t1315905180
+s43236
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/UIImageResizing.o
+t1315904551
+s12988
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/main.o
+t1315134362
+s6300
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app
+t1315905180
+s374
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app.dSYM
+t1315905180
+s102
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/Info.plist
+t1315309792
+s582
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/MainWindow.nib
+t1315134361
+s1125
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1
+t1315905180
+s75196
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1ViewController.nib
+t1315374525
+s2783
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/PkgInfo
+t1315309792
+s8
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/cookie_monster.gif
+t1315291212
+s3937
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/cookie_monster_bigger.png
+t1315300510
+s9690
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/point.png
+t1315300510
+s1125
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/rect.png
+t1315300510
+s1130
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/cookie_monster.gif
+c000000004D07DF0D0000000000000F61
+t1292361485
+s3937
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/cookie_monster_bigger.png
+c000000004E65DFA600000000000025DA
+t1315299238
+s9690
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/main.m
+c000000004C8BB469000000000000015C
+t1284224105
+s348
+i<UIKit/UIKit.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/point.png
+c000000004E65DA680000000000000465
+t1315297896
+s1125
+
+N/Users/ishai_jaffe/Downloads/AugmentedRealitySample/Classes/ImageUtils.h
+c000000004E635C5A000000000000022E
+t1315134554
+s558
+i<UIKit/UIKit.h>
+
+N/Users/ishai_jaffe/Downloads/AugmentedRealitySample/Classes/OverlayView.h
+c000000004E6F0E5400000000000001F5
+t1315901012
+s501
+i<UIKit/UIKit.h>
+i"ImageUtils.h"
+
+N/var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch.gch
+t1315134362
+s15113424
+
+NOR_test1-Info.plist
+c000000004E65F42F0000000000000369
+t1315304495
+s873
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies337597980#337597980#0(0"0(0#1#0"8714578784#0"0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Descriptor.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Descriptor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336993659.104951
+e336993659.294052
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Descriptor.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Descriptor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Descriptor.m336993659#336993659#0(0"0(0#0#64"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Descriptor.m8631671072#2068"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Descriptor.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Descriptor.o0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Feature.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Feature.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337003397.653032
+e337003397.772827
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Feature.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Feature.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Feature.m337003397#337003397#0(0"0(0#0#61"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Feature.m8673118528#2062"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Feature.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Feature.o0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/HassienDetector.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337037940.906279
+e337037941.193709
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/HassienDetector.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m: In function '-[HassienDetector InterpolateExtremum:::::]':
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:87: warning: unused variable 'INFO'
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:87: warning: unused variable 'IPIV'
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:86: warning: unused variable 'LDB'
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:86: warning: unused variable 'LDA'
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:86: warning: unused variable 'NRHS'
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:86: warning: unused variable 'N'
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m: In function '-[HassienDetector detectFeatures::]':
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:239: warning: control reaches end of non-void function
+lSLF07#2@77"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m337037940#337037941#0(1008"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m: In function '-[HassienDetector InterpolateExtremum:::::]':/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:87: warning: unused variable 'INFO'/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:87: warning: unused variable 'IPIV'/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:86: warning: unused variable 'LDB'/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:86: warning: unused variable 'LDA'/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:86: warning: unused variable 'NRHS'/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:86: warning: unused variable 'N'/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m: In function '-[HassienDetector detectFeatures::]':/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m:239: warning: control reaches end of non-void function7(22@22"Unused variable 'INFO'337037940#130#106#0(6@69"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m337036709#87#0#87#0#19"unused variable '*'0(22@22"Unused variable 'IPIV'337037940#236#106#0(6@69"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m337036709#87#0#87#0#19"unused variable '*'0(22@21"Unused variable 'LDB'337037940#342#105#0(6@69"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m337036709#86#0#86#0#19"unused variable '*'0(22@21"Unused variable 'LDA'337037940#447#105#0(6@69"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m337036709#86#0#86#0#19"unused variable '*'0(22@22"Unused variable 'NRHS'337037940#552#106#0(6@69"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m337036709#86#0#86#0#19"unused variable '*'0(22@19"Unused variable 'N'337037940#658#103#0(6@69"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m337036709#86#0#86#0#19"unused variable '*'0(22@40"Control reaches end of non-void function337037940#883#125#0(6@69"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m337036709#239#0#239#0#40"control reaches end of non-void function0(0#0#69"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m8760288672#2078"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/HassienDetector.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/HassienDetector.o0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/ImageUtils.o /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337067018.677847
+e337067018.818782
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/ImageUtils.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m337067018#337067018#0(0"0(0#0#106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m8800990368#2110"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/ImageUtils.o0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/IntegralImage.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337597351.184166
+e337597351.388401
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/IntegralImage.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m: In function '-[IntegralImage initFromCGImage:]':
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m:57: warning: unused variable 'alpha'
+lSLF07#2@75"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m337597351#337597351#0(223"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m: In function '-[IntegralImage initFromCGImage:]':/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m:57: warning: unused variable 'alpha'1(22@23"Unused variable 'alpha'337597351#118#105#0(6@67"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m337596697#57#0#57#0#19"unused variable '*'0(0#0#67"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m8710110432#2074"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/IntegralImage.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/IntegralImage.o0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Layer.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337033558.286464
+e337033558.577147
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Layer.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m: In function '-[Layer buildResponseLayer:]':
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m:74: warning: local declaration of 'step' hides instance variable
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m:75: warning: local declaration of 'step' hides instance variable
+lSLF07#2@67"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m337033558#337033558#0(355"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m: In function '-[Layer buildResponseLayer:]':/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m:74: warning: local declaration of 'step' hides instance variable/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m:75: warning: local declaration of 'step' hides instance variable2(22@51"Local declaration of 'step' hides instance variable337033558#105#125#0(6@59"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m337033363#74#0#74#0#0"0(22@51"Local declaration of 'step' hides instance variable337033558#230#125#0(6@59"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m337033363#75#0#75#0#0"0(0#0#59"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m8678518528#2058"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Layer.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/Layer.o0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1AppDelegate.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337597350.713683
+e337597350.941036
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1AppDelegate.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m337597350#337597350#0(0"0(0#0#73"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m8686811616#2086"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1AppDelegate.o0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1ViewController.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337597682.346427
+e337597682.729216
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1ViewController.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController runTest]':
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:23: warning: 'OR_test1ViewController' may not respond to '-runTestWithType:'
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:23: warning: (Messages without a matching method signature
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:23: warning: will be assumed to return 'id' and accept
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:23: warning: '...' as arguments.)
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:23: warning: 'return' with a value, in function returning void
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController runTest_from_camera]':
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:27: warning: 'OR_test1ViewController' may not respond to '-runTestWithType:'
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:27: warning: 'return' with a value, in function returning void
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController runTestWithType:]':
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:43: warning: class 'OR_test1ViewController' does not implement the 'UINavigationControllerDelegate' protocol
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController imagePickerController:didFinishPickingImage:editingInfo:]':
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:67: warning: local declaration of 'picker' hides instance variable
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:68: warning: local declaration of 'picker' hides instance variable
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:71: warning: 'OR_test1ViewController' may not respond to '-runTest_final'
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController runAugmentedReality]':
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:194: warning: 'setAllowsImageEditing:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h:110)
+lSLF07#2@84"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m337597682#337597682#0(2617"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController runTest]':/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:23: warning: 'OR_test1ViewController' may not respond to '-runTestWithType:'/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:23: warning: (Messages without a matching method signature/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:23: warning: will be assumed to return 'id' and accept/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:23: warning: '...' as arguments.)/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:23: warning: 'return' with a value, in function returning void/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController runTest_from_camera]':/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:27: warning: 'OR_test1ViewController' may not respond to '-runTestWithType:'/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:27: warning: 'return' with a value, in function returning void/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController runTestWithType:]':/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:43: warning: class 'OR_test1ViewController' does not implement the 'UINavigationControllerDelegate' protocol/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController imagePickerController:didFinishPickingImage:editingInfo:]':/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:67: warning: local declaration of 'picker' hides instance variable/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:68: warning: local declaration of 'picker' hides instance variable/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:71: warning: 'OR_test1ViewController' may not respond to '-runTest_final'/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController runAugmentedReality]':/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:194: warning: 'setAllowsImageEditing:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h:110)10(22@63"'OR_test1ViewController' may not respond to '-runTestWithType:'337597682#127#154#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m337597610#23#0#23#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)337597682#281#136#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m337597610#23#0#23#0#0"0(22@49"'return' with a value, in function returning void337597682#660#140#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m337597610#23#0#23#0#0"0(22@63"'OR_test1ViewController' may not respond to '-runTestWithType:'337597682#939#154#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m337597610#27#0#27#0#26"'*' may not respond to '*'0(22@49"'return' with a value, in function returning void337597682#1093#140#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m337597610#27#0#27#0#0"0(22@95"Class 'OR_test1ViewController' does not implement the 'UINavigationControllerDelegate' protocol337597682#1369#186#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m337597610#43#0#43#0#45"class '*' does not implement the '*' protocol0(22@53"Local declaration of 'picker' hides instance variable337597682#1731#144#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m337597610#67#0#67#0#0"0(22@53"Local declaration of 'picker' hides instance variable337597682#1875#144#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m337597610#68#0#68#0#0"0(22@60"'OR_test1ViewController' may not respond to '-runTest_final'337597682#2019#151#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m337597610#71#0#71#0#26"'*' may not respond to '*'0(22@216"'setAllowsImageEditing:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h:110)337597682#2309#308#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m337597610#194#0#194#0#33"'*' is deprecated (declared at *)0(0#0#76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m8714069376#2092"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1ViewController.o0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OverlayView.o /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337597350.941261
+e337597351.184067
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OverlayView.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m: In function '-[OverlayView drawRect:]':
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m:65: warning: unused variable 'y'
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m:62: warning: unused variable 'R'
+lSLF07#2@115"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m337597350#337597351#0(431"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m: In function '-[OverlayView drawRect:]':/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m:65: warning: unused variable 'y'/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m:62: warning: unused variable 'R'2(22@19"Unused variable 'y'337597350#149#141#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m337596777#65#0#65#0#19"unused variable '*'0(22@19"Unused variable 'R'337597350#290#141#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m337596777#62#0#62#0#19"unused variable '*'0(0#0#107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m8710022656#2112"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OverlayView.o0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/TestView.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337597980.077388
+e337597980.308588
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/TestView.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m:65: warning: incomplete implementation of class 'TestView'
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m:65: warning: method definition for '-drawOval' not found
+lSLF07#2@70"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m337597980#337597980#0(242"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m:65: warning: incomplete implementation of class 'TestView'/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m:65: warning: method definition for '-drawOval' not found2(22@45"Incomplete implementation of class 'TestView'337597980#0#122#0(6@62"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m337597979#65#0#65#0#38"incomplete implementation of class '*'0(22@43"Method definition for '-drawOval' not found337597980#122#120#0(6@62"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m337597979#65#0#65#0#35"method definition for '*' not found0(0#0#62"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m8717119552#2064"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/TestView.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/TestView.o0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/UIImageResizing.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/UIImageResizing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337597351.347296
+e337597351.470266
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/UIImageResizing.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/UIImageResizing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/UIImageResizing.m337597351#337597351#0(0"0(0#0#69"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/UIImageResizing.m8688715104#2078"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/UIImageResizing.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/UIImageResizing.o0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/main.o /Users/ishai_jaffe/Documents/tests/OR_test1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336827162.296800
+e336827162.595652
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/main.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/main.m336827162#336827162#0(0"0(0#0#50"/Users/ishai_jaffe/Documents/tests/OR_test1/main.m8604218720#2048"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/main.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib
+s336827160.666192
+e336827161.187372
+r1
+xCompileXIB
+x/Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib336827160#336827161#0(0"0(0#0#58"/Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib8605327136#588"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/MainWindow.nib /Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib
+s337067324.689481
+e337067325.166820
+r1
+xCompileXIB
+x/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib
+lSLF07#2@37"CompileXIB OR_test1ViewController.xib337067324#337067325#0(0"0(0#0#70"/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib8799492480#612"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1ViewController.nib /Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Release-iphonesimulator/OR_test1.app/cookie_monster.gif cookie_monster.gif
+s336984012.497601
+e336984012.529717
+r1
+xCpResource
+xbuild/Release-iphonesimulator/OR_test1.app/cookie_monster.gif
+xcookie_monster.gif
+lSLF07#2@23"Copy cookie_monster.gif336984012#336984012#0(0"0(0#0#62"/Users/ishai_jaffe/Documents/tests/OR_test1/cookie_monster.gif8629533152#515"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/ishai_jaffe/Documents/tests/OR_test1/cookie_monster.gif /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app0#
+
+CCpResource build/Release-iphonesimulator/OR_test1.app/cookie_monster_bigger.png cookie_monster_bigger.png
+s336993309.986467
+e336993310.117623
+r1
+xCpResource
+xbuild/Release-iphonesimulator/OR_test1.app/cookie_monster_bigger.png
+xcookie_monster_bigger.png
+lSLF07#2@30"Copy cookie_monster_bigger.png336993309#336993310#0(0"0(0#0#69"/Users/ishai_jaffe/Documents/tests/OR_test1/cookie_monster_bigger.png8634521408#522"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/ishai_jaffe/Documents/tests/OR_test1/cookie_monster_bigger.png /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app0#
+
+CCpResource build/Release-iphonesimulator/OR_test1.app/point.png point.png
+s336993309.985191
+e336993310.117465
+r1
+xCpResource
+xbuild/Release-iphonesimulator/OR_test1.app/point.png
+xpoint.png
+lSLF07#2@14"Copy point.png336993309#336993310#0(0"0(0#0#53"/Users/ishai_jaffe/Documents/tests/OR_test1/point.png8631536064#506"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/ishai_jaffe/Documents/tests/OR_test1/point.png /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app0#
+
+CCpResource build/Release-iphonesimulator/OR_test1.app/rect.png ../../../Desktop/rect.png
+s336993309.985835
+e336993310.126008
+r1
+xCpResource
+xbuild/Release-iphonesimulator/OR_test1.app/rect.png
+x../../../Desktop/rect.png
+lSLF07#2@30"Copy ../../../Desktop/rect.png336993309#336993310#0(0"0(0#0#69"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Desktop/rect.png8637190304#522"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Desktop/rect.png /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app0#
+
+CGenerateDSYMFile /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app.dSYM /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1
+s337597980.348546
+e337597980.376244
+r1
+xGenerateDSYMFile
+x/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app.dSYM
+x/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1
+lSLF07#2@116"GenerateDSYMFile build/Release-iphonesimulator/OR_test1.app.dSYM build/Release-iphonesimulator/OR_test1.app/OR_test1337597980#337597980#0(0"0(0#0#95"/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test18717302816#405"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1 -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app.dSYM0#
+
+CLd /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1 normal i386
+s337597980.308740
+e337597980.348430
+r1
+xLd
+x/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1
+xnormal
+xi386
+old: warning: directory '/Volumes/OpenCV Private Framework/OpenCV.framework' following -L not found
+old: warning: in /Users/ishai_jaffe/Downloads/niw-iphone_opencv_test-ed28886/opencv_device/lib/libcv.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /Users/ishai_jaffe/Downloads/niw-iphone_opencv_test-ed28886/opencv_device/lib/libcxcore.a, file was built for unsupported file format which is not the architecture being linked (i386)
+lSLF07#2@100"Link /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1337597980#337597980#0(495"ld: warning: directory '/Volumes/OpenCV Private Framework/OpenCV.framework' following -L not foundld: warning: in /Users/ishai_jaffe/Downloads/niw-iphone_opencv_test-ed28886/opencv_device/lib/libcv.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /Users/ishai_jaffe/Downloads/niw-iphone_opencv_test-ed28886/opencv_device/lib/libcxcore.a, file was built for unsupported file format which is not the architecture being linked (i386)3(22@85"Directory '/Volumes/OpenCV Private Framework/OpenCV.framework' following -L not found337597980#0#99#0(6@0"337597980#0#0#0#0#0"0(22@182"In /Users/ishai_jaffe/Downloads/niw-iphone_opencv_test-ed28886/opencv_device/lib/libcv.a, file was built for unsupported file format which is not the architecture being linked (i386)337597980#99#196#0(6@0"337597980#0#0#0#0#0"0(22@186"In /Users/ishai_jaffe/Downloads/niw-iphone_opencv_test-ed28886/opencv_device/lib/libcxcore.a, file was built for unsupported file format which is not the architecture being linked (i386)337597980#295#200#0(6@0"337597980#0#0#0#0#0"0(0#0#0"8721086848#1167"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator "-L/Volumes/OpenCV Private Framework/OpenCV.framework" -L/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/niw-iphone_opencv_test-ed28886/opencv_device/lib -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -filelist /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lcv -lcxcore -framework Accelerate -framework AudioToolbox -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test10#
+
+CProcessInfoPlistFile /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/Info.plist OR_test1-Info.plist
+s337002592.021804
+e337002592.024917
+r1
+xProcessInfoPlistFile
+x/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/Info.plist
+xOR_test1-Info.plist
+lSLF07#2@27"Process OR_test1-Info.plist337002592#337002592#0(0"0(0#0#63"/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1-Info.plist8647153728#501"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility OR_test1-Info.plist -genpkginfo /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/Info.plist0#
+
+CProcessPCH /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch.gch OR_test1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s336827161.187725
+e336827162.296604
+r1
+xProcessPCH
+x/var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch.gch
+xOR_test1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile OR_test1_Prefix.pch336827161#336827162#0(0"0(0#0#63"/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1_Prefix.pch8607598368#1932"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1_Prefix.pch -o /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch.gch0#
+
+CTouch /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app
+s337597980.376329
+e337597980.379015
+r1
+xTouch
+x/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app
+lSLF07#2@92"Touch /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app337597980#337597980#0(0"0(0#0#0"8717113952#291"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app0#
+

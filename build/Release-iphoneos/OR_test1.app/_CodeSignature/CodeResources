@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>MainWindow.nib</key>
+		<data>
+		E0M9j0vIFKWsYtqX+na3YHDcyOw=
+		</data>
+		<key>OR_test1ViewController.nib</key>
+		<data>
+		c49siXPsc+dZdm3R2aCtbwI4Xd4=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>cookie_monster.gif</key>
+		<data>
+		RnHPdtonycRP5MH5YQMXahe7XrM=
+		</data>
+		<key>cookie_monster_bigger.png</key>
+		<data>
+		sQrboKhmHs+HZ1GFHLgxa1jxEMk=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		s1GFf72DSPodA7Le40krFTCoiKs=
+		</data>
+		<key>point.png</key>
+		<data>
+		vs2GHkFmcKbOgRs1tQrVRMNF+AM=
+		</data>
+		<key>rect.png</key>
+		<data>
+		XbEdudfhnGVkgd5KELlY+FQZnhY=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

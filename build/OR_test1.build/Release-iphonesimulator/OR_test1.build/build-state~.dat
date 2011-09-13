@@ -1,0 +1,361 @@
+TOR_test1
+v7
+r0
+t336827162.707632
+cCheck dependencies
+cProcessInfoPlistFile /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/Info.plist OR_test1-Info.plist
+cCompileXIB /Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib
+cCompileXIB /Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib
+cProcessPCH /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch.gch OR_test1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/main.o /Users/ishai_jaffe/Documents/tests/OR_test1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1AppDelegate.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1ViewController.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/ImageUtils.o /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OverlayView.o /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000004AD4F4D80000000000006500
+t1255470296
+s25856
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m
+c000000004C8DCAAA0000000000001113
+t1284360874
+s4371
+i"ImageUtils.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h
+c000000004B3E3742000000000000017C
+t1262368578
+s380
+i<UIKit/UIKit.h>
+i"ImageUtils.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m
+c000000004C8BC5500000000000000944
+t1284228432
+s2372
+i"OverlayView.h"
+i"ImageUtils.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/niw-iphone_opencv_test-ed28886/opencv_device/lib/libcv.a
+c000000004C8B94BA00000000003FC168
+t1284215994
+s4178280
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/niw-iphone_opencv_test-ed28886/opencv_device/lib/libcxcore.a
+c000000004C8B94BA00000000002E3118
+t1284215994
+s3027224
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.h
+c000000004C8BB46900000000000001D7
+t1284224105
+s471
+i<UIKit/UIKit.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m
+c000000004C8BB4690000000000000A82
+t1284224105
+s2690
+i"OR_test1AppDelegate.h"
+i"OR_test1ViewController.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h
+c000000004C8DC3990000000000000152
+t1284359065
+s338
+i<UIKit/UIKit.h>
+i"OverlayView.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m
+c000000004C8BC71400000000000010D9
+t1284228884
+s4313
+i"OR_test1ViewController.h"
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib
+c000000004C8BB4690000000000004E35
+t1284224105
+s20021
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib
+c000000004C8BC0090000000000004758
+t1284227081
+s18264
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1_Prefix.pch
+c000000004C8BB46900000000000000B9
+t1284224105
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/ImageUtils.o
+t2
+s0
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1.LinkFileList
+c000000004E635B9800000000000002BD
+t1315134360
+s701
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1AppDelegate.o
+t2
+s0
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1ViewController.o
+t2
+s0
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OverlayView.o
+t2
+s0
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/main.o
+t1315134362
+s6300
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app
+t2
+s0
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app.dSYM
+t2
+s0
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/Info.plist
+t1315134360
+s582
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/MainWindow.nib
+t1315134361
+s1125
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1
+t2
+s0
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1ViewController.nib
+t1315134361
+s1493
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/PkgInfo
+t1315134360
+s8
+
+N/Users/ishai_jaffe/Documents/tests/OR_test1/main.m
+c000000004C8BB469000000000000015C
+t1284224105
+s348
+i<UIKit/UIKit.h>
+
+N/Users/ishai_jaffe/Downloads/AugmentedRealitySample/Classes/ImageUtils.h
+c000000004C8DCAC20000000000000250
+t1284360898
+s592
+i<UIKit/UIKit.h>
+i<opencv/cv.h>
+
+N/Users/ishai_jaffe/Downloads/AugmentedRealitySample/Classes/OverlayView.h
+c000000004B3E3742000000000000017C
+t1262368578
+s380
+i<UIKit/UIKit.h>
+i"ImageUtils.h"
+
+N/var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch.gch
+t1315134362
+s15113424
+
+NOR_test1-Info.plist
+c000000004C8BBF120000000000000369
+t1284226834
+s873
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies336827160#336827160#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/ImageUtils.o /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336827162.595734
+e336827162.656604
+r0
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/ImageUtils.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m:9:
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:10:22: error: opencv/cv.h: No such file or directory
+oIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m:9:
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:24: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:27: error: expected ')' before '*' token
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m:85: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m:105: error: expected ')' before '*' token
+lSLF07#2@114"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m336827162#336827162#0(1089"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m:9:/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:10:22: error: opencv/cv.h: No such file or directoryIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m:9:/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:24: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:27: error: expected ')' before '*' token/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m:85: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m:105: error: expected ')' before '*' token5(4@38"Opencv/cv.h: No such file or directory336827162#132#160#2(7@128"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m306053674#9#0#9#0#0"0(13@148"Opencv/cv.h: No such file or directory in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#10#0#10#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#10#0#10#0#28"*: No such file or directory0(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token336827162#424#184#2(7@128"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m306053674#9#0#9#0#0"0(13@175"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#24#0#24#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#24#0#24#0#19"expected * before *0(4@29"Expected ')' before '*' token336827162#608#148#2(7@128"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m306053674#9#0#9#0#0"0(13@139"Expected ')' before '*' token in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#27#0#27#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#27#0#27#0#19"expected * before *0(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token336827162#756#184#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m306053674#85#0#85#0#19"expected * before *0(4@29"Expected ')' before '*' token336827162#940#149#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m306053674#105#0#105#0#19"expected * before *0(0#0#106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m8607299072#2110"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/ImageUtils.o1#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1AppDelegate.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336827162.298182
+e336827162.594442
+r0
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1AppDelegate.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,
+o                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h:10,
+o                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m:10:
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:10:22: error: opencv/cv.h: No such file or directory
+oIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,
+o                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h:10,
+o                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m:10:
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:24: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:27: error: expected ')' before '*' token
+lSLF07#2@81"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m336827162#336827162#0(1164"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h:10,                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m:10:/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:10:22: error: opencv/cv.h: No such file or directoryIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h:10,                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m:10:/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:24: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:27: error: expected ')' before '*' token3(4@38"Opencv/cv.h: No such file or directory336827162#336#160#4(7@95"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m336827162#18446744073709551615#0#0(6@73"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m305916905#10#0#10#0#0"0(7@98"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h336827162#18446744073709551615#0#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h306051865#10#0#10#0#0"0(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h284061378#9#0#9#0#0"0(13@148"Opencv/cv.h: No such file or directory in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#10#0#10#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#10#0#10#0#28"*: No such file or directory0(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token336827162#832#184#4(7@95"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m336827162#18446744073709551615#0#0(6@73"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m305916905#10#0#10#0#0"0(7@98"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h336827162#18446744073709551615#0#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h306051865#10#0#10#0#0"0(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h284061378#9#0#9#0#0"0(13@175"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#24#0#24#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#24#0#24#0#19"expected * before *0(4@29"Expected ')' before '*' token336827162#1016#148#4(7@95"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m336827162#18446744073709551615#0#0(6@73"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m305916905#10#0#10#0#0"0(7@98"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h336827162#18446744073709551615#0#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h306051865#10#0#10#0#0"0(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h284061378#9#0#9#0#0"0(13@139"Expected ')' before '*' token in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#27#0#27#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#27#0#27#0#19"expected * before *0(0#0#73"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m8607757888#2086"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1AppDelegate.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1AppDelegate.o1#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1ViewController.o /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336827162.594543
+e336827162.659742
+r0
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1ViewController.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,
+o                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h:10,
+o                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:9:
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:10:22: error: opencv/cv.h: No such file or directory
+oIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,
+o                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h:10,
+o                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:9:
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:24: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:27: error: expected ')' before '*' token
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController runAugmentedReality]':
+o/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:40: warning: 'setAllowsImageEditing:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h:110)
+lSLF07#2@84"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m336827162#336827162#0(1614"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h:10,                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:9:/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:10:22: error: opencv/cv.h: No such file or directoryIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h:10,                 from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:9:/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:24: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:27: error: expected ')' before '*' token/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m: In function '-[OR_test1ViewController runAugmentedReality]':/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m:40: warning: 'setAllowsImageEditing:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h:110)4(4@38"Opencv/cv.h: No such file or directory336827162#338#160#4(7@98"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m336827162#18446744073709551615#0#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m305921684#9#0#9#0#0"0(7@98"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h336827162#18446744073709551615#0#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h306051865#10#0#10#0#0"0(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h284061378#9#0#9#0#0"0(13@148"Opencv/cv.h: No such file or directory in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#10#0#10#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#10#0#10#0#28"*: No such file or directory0(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token336827162#836#184#4(7@98"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m336827162#18446744073709551615#0#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m305921684#9#0#9#0#0"0(7@98"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h336827162#18446744073709551615#0#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h306051865#10#0#10#0#0"0(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h284061378#9#0#9#0#0"0(13@175"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#24#0#24#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#24#0#24#0#19"expected * before *0(4@29"Expected ')' before '*' token336827162#1020#148#4(7@98"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m336827162#18446744073709551615#0#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m305921684#9#0#9#0#0"0(7@98"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h336827162#18446744073709551615#0#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.h306051865#10#0#10#0#0"0(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h284061378#9#0#9#0#0"0(13@139"Expected ')' before '*' token in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#27#0#27#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#27#0#27#0#19"expected * before *0(22@216"'setAllowsImageEditing:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h:110)336827162#1307#307#0(6@76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m305921684#40#0#40#0#33"'*' is deprecated (declared at *)0(0#0#76"/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m8607392832#2092"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/Classes/OR_test1ViewController.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OR_test1ViewController.o1#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OverlayView.o /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336827162.656706
+e336827162.707549
+r0
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OverlayView.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,
+o                 from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m:8:
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:10:22: error: opencv/cv.h: No such file or directory
+oIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,
+o                 from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m:8:
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:24: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+o/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:27: error: expected ')' before '*' token
+lSLF07#2@115"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m336827162#336827162#0(1024"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,                 from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m:8:/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:10:22: error: opencv/cv.h: No such file or directoryIn file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h:9,                 from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m:8:/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:24: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:27: error: expected ')' before '*' token3(4@38"Opencv/cv.h: No such file or directory336827162#266#160#3(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m305921232#8#0#8#0#0"0(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h284061378#9#0#9#0#0"0(13@148"Opencv/cv.h: No such file or directory in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#10#0#10#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#10#0#10#0#28"*: No such file or directory0(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token336827162#692#184#3(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m305921232#8#0#8#0#0"0(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h284061378#9#0#9#0#0"0(13@175"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#24#0#24#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#24#0#24#0#19"expected * before *0(4@29"Expected ')' before '*' token336827162#876#148#3(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m305921232#8#0#8#0#0"0(7@129"In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h336827162#18446744073709551615#0#0(6@107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.h284061378#9#0#9#0#0"0(13@139"Expected ')' before '*' token in /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h336827162#18446744073709551615#0#0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#27#0#27#0#0"0(6@106"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h306053698#27#0#27#0#19"expected * before *0(0#0#107"/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m8605145952#2112"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/OverlayView.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/OverlayView.o1#
+
+CCompileC build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/main.o /Users/ishai_jaffe/Documents/tests/OR_test1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336827162.296800
+e336827162.595652
+r1
+xCompileC
+xbuild/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/main.o
+x/Users/ishai_jaffe/Documents/tests/OR_test1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/ishai_jaffe/Documents/tests/OR_test1/main.m336827162#336827162#0(0"0(0#0#50"/Users/ishai_jaffe/Documents/tests/OR_test1/main.m8604218720#2048"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch -c /Users/ishai_jaffe/Documents/tests/OR_test1/main.m -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib
+s336827160.666192
+e336827161.187372
+r1
+xCompileXIB
+x/Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib336827160#336827161#0(0"0(0#0#58"/Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib8605327136#588"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/MainWindow.nib /Users/ishai_jaffe/Documents/tests/OR_test1/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib
+s336827160.687001
+e336827161.187543
+r1
+xCompileXIB
+x/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB OR_test1ViewController.xib336827160#336827161#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#70"/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib8605191904#612"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1ViewController.nib /Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app.dSYM /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1
+r0
+
+CLd /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/OR_test1 normal i386
+r0
+
+CProcessInfoPlistFile /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/Info.plist OR_test1-Info.plist
+s336827160.636590
+e336827160.666090
+r1
+xProcessInfoPlistFile
+x/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/Info.plist
+xOR_test1-Info.plist
+lSLF07#2@27"Process OR_test1-Info.plist336827160#336827160#0(0"0(0#0#63"/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1-Info.plist27303506539708516#501"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility OR_test1-Info.plist -genpkginfo /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app/Info.plist0#
+
+CProcessPCH /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch.gch OR_test1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s336827161.187725
+e336827162.296604
+r1
+xProcessPCH
+x/var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch.gch
+xOR_test1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile OR_test1_Prefix.pch336827161#336827162#0(0"0(0#0#63"/Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1_Prefix.pch8607598368#1932"    cd /Users/ishai_jaffe/Documents/tests/OR_test1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-generated-files.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-own-target-headers.hmap -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-all-target-headers.hmap -iquote /Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/OR_test1-project-headers.hmap -F/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/include -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources/i386 -I/Users/ishai_jaffe/Documents/tests/OR_test1/build/OR_test1.build/Release-iphonesimulator/OR_test1.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/ishai_jaffe/Documents/tests/OR_test1/OR_test1_Prefix.pch -o /var/folders/DC/DCIkf49GFwybFL1aTT8DWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OR_test1_Prefix-dsolfrrrlgfbeafxgoqpzexusulx/OR_test1_Prefix.pch.gch0#
+
+CTouch /Users/ishai_jaffe/Documents/tests/OR_test1/build/Release-iphonesimulator/OR_test1.app
+r0
+
