@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+ <key>files</key>
+ <array>
+  <string>/Users/ishai_jaffe/Documents/tests/OR_test1/Classes/Descriptor.m</string>
+ </array>
+ <key>diagnostics</key>
+ <array>
+  <dict>
+   <key>path</key>
+   <array>
+    <dict>
+     <key>kind</key><string>event</string>
+     <key>location</key>
+     <dict>
+      <key>line</key><integer>100</integer>
+      <key>col</key><integer>4</integer>
+      <key>file</key><integer>0</integer>
+     </dict>
+     <key>ranges</key>
+     <array>
+       <array>
+        <dict>
+         <key>line</key><integer>100</integer>
+         <key>col</key><integer>9</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+        <dict>
+         <key>line</key><integer>100</integer>
+         <key>col</key><integer>28</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+       </array>
+     </array>
+     <key>extended_message</key>
+     <string>Value stored to &apos;dx&apos; is never read</string>
+     <key>message</key>
+<string>Value stored to &apos;dx&apos; is never read</string>
+    </dict>
+   </array>
+   <key>description</key><string>Value stored to &apos;dx&apos; is never read</string>
+   <key>category</key><string>Dead store</string>
+   <key>type</key><string>Dead assignment</string>
+  <key>location</key>
+  <dict>
+   <key>line</key><integer>100</integer>
+   <key>col</key><integer>4</integer>
+   <key>file</key><integer>0</integer>
+  </dict>
+  </dict>
+  <dict>
+   <key>path</key>
+   <array>
+    <dict>
+     <key>kind</key><string>event</string>
+     <key>location</key>
+     <dict>
+      <key>line</key><integer>100</integer>
+      <key>col</key><integer>9</integer>
+      <key>file</key><integer>0</integer>
+     </dict>
+     <key>ranges</key>
+     <array>
+       <array>
+        <dict>
+         <key>line</key><integer>100</integer>
+         <key>col</key><integer>14</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+        <dict>
+         <key>line</key><integer>100</integer>
+         <key>col</key><integer>28</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+       </array>
+     </array>
+     <key>extended_message</key>
+     <string>Although the value stored to &apos;dy&apos; is used in the enclosing expression, the value is never actually read from &apos;dy&apos;</string>
+     <key>message</key>
+<string>Although the value stored to &apos;dy&apos; is used in the enclosing expression, the value is never actually read from &apos;dy&apos;</string>
+    </dict>
+   </array>
+   <key>description</key><string>Although the value stored to &apos;dy&apos; is used in the enclosing expression, the value is never actually read from &apos;dy&apos;</string>
+   <key>category</key><string>Dead store</string>
+   <key>type</key><string>Dead nested assignment</string>
+  <key>location</key>
+  <dict>
+   <key>line</key><integer>100</integer>
+   <key>col</key><integer>9</integer>
+   <key>file</key><integer>0</integer>
+  </dict>
+  </dict>
+  <dict>
+   <key>path</key>
+   <array>
+    <dict>
+     <key>kind</key><string>event</string>
+     <key>location</key>
+     <dict>
+      <key>line</key><integer>100</integer>
+      <key>col</key><integer>14</integer>
+      <key>file</key><integer>0</integer>
+     </dict>
+     <key>ranges</key>
+     <array>
+       <array>
+        <dict>
+         <key>line</key><integer>100</integer>
+         <key>col</key><integer>20</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+        <dict>
+         <key>line</key><integer>100</integer>
+         <key>col</key><integer>28</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+       </array>
+     </array>
+     <key>extended_message</key>
+     <string>Although the value stored to &apos;mdx&apos; is used in the enclosing expression, the value is never actually read from &apos;mdx&apos;</string>
+     <key>message</key>
+<string>Although the value stored to &apos;mdx&apos; is used in the enclosing expression, the value is never actually read from &apos;mdx&apos;</string>
+    </dict>
+   </array>
+   <key>description</key><string>Although the value stored to &apos;mdx&apos; is used in the enclosing expression, the value is never actually read from &apos;mdx&apos;</string>
+   <key>category</key><string>Dead store</string>
+   <key>type</key><string>Dead nested assignment</string>
+  <key>location</key>
+  <dict>
+   <key>line</key><integer>100</integer>
+   <key>col</key><integer>14</integer>
+   <key>file</key><integer>0</integer>
+  </dict>
+  </dict>
+  <dict>
+   <key>path</key>
+   <array>
+    <dict>
+     <key>kind</key><string>event</string>
+     <key>location</key>
+     <dict>
+      <key>line</key><integer>100</integer>
+      <key>col</key><integer>20</integer>
+      <key>file</key><integer>0</integer>
+     </dict>
+     <key>ranges</key>
+     <array>
+       <array>
+        <dict>
+         <key>line</key><integer>100</integer>
+         <key>col</key><integer>26</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+        <dict>
+         <key>line</key><integer>100</integer>
+         <key>col</key><integer>28</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+       </array>
+     </array>
+     <key>extended_message</key>
+     <string>Although the value stored to &apos;mdy&apos; is used in the enclosing expression, the value is never actually read from &apos;mdy&apos;</string>
+     <key>message</key>
+<string>Although the value stored to &apos;mdy&apos; is used in the enclosing expression, the value is never actually read from &apos;mdy&apos;</string>
+    </dict>
+   </array>
+   <key>description</key><string>Although the value stored to &apos;mdy&apos; is used in the enclosing expression, the value is never actually read from &apos;mdy&apos;</string>
+   <key>category</key><string>Dead store</string>
+   <key>type</key><string>Dead nested assignment</string>
+  <key>location</key>
+  <dict>
+   <key>line</key><integer>100</integer>
+   <key>col</key><integer>20</integer>
+   <key>file</key><integer>0</integer>
+  </dict>
+  </dict>
+  <dict>
+   <key>path</key>
+   <array>
+    <dict>
+     <key>kind</key><string>event</string>
+     <key>location</key>
+     <dict>
+      <key>line</key><integer>101</integer>
+      <key>col</key><integer>4</integer>
+      <key>file</key><integer>0</integer>
+     </dict>
+     <key>ranges</key>
+     <array>
+       <array>
+        <dict>
+         <key>line</key><integer>101</integer>
+         <key>col</key><integer>12</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+        <dict>
+         <key>line</key><integer>101</integer>
+         <key>col</key><integer>40</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+       </array>
+     </array>
+     <key>extended_message</key>
+     <string>Value stored to &apos;dx_yn&apos; is never read</string>
+     <key>message</key>
+<string>Value stored to &apos;dx_yn&apos; is never read</string>
+    </dict>
+   </array>
+   <key>description</key><string>Value stored to &apos;dx_yn&apos; is never read</string>
+   <key>category</key><string>Dead store</string>
+   <key>type</key><string>Dead assignment</string>
+  <key>location</key>
+  <dict>
+   <key>line</key><integer>101</integer>
+   <key>col</key><integer>4</integer>
+   <key>file</key><integer>0</integer>
+  </dict>
+  </dict>
+  <dict>
+   <key>path</key>
+   <array>
+    <dict>
+     <key>kind</key><string>event</string>
+     <key>location</key>
+     <dict>
+      <key>line</key><integer>101</integer>
+      <key>col</key><integer>12</integer>
+      <key>file</key><integer>0</integer>
+     </dict>
+     <key>ranges</key>
+     <array>
+       <array>
+        <dict>
+         <key>line</key><integer>101</integer>
+         <key>col</key><integer>21</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+        <dict>
+         <key>line</key><integer>101</integer>
+         <key>col</key><integer>40</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+       </array>
+     </array>
+     <key>extended_message</key>
+     <string>Although the value stored to &apos;mdx_yn&apos; is used in the enclosing expression, the value is never actually read from &apos;mdx_yn&apos;</string>
+     <key>message</key>
+<string>Although the value stored to &apos;mdx_yn&apos; is used in the enclosing expression, the value is never actually read from &apos;mdx_yn&apos;</string>
+    </dict>
+   </array>
+   <key>description</key><string>Although the value stored to &apos;mdx_yn&apos; is used in the enclosing expression, the value is never actually read from &apos;mdx_yn&apos;</string>
+   <key>category</key><string>Dead store</string>
+   <key>type</key><string>Dead nested assignment</string>
+  <key>location</key>
+  <dict>
+   <key>line</key><integer>101</integer>
+   <key>col</key><integer>12</integer>
+   <key>file</key><integer>0</integer>
+  </dict>
+  </dict>
+  <dict>
+   <key>path</key>
+   <array>
+    <dict>
+     <key>kind</key><string>event</string>
+     <key>location</key>
+     <dict>
+      <key>line</key><integer>101</integer>
+      <key>col</key><integer>21</integer>
+      <key>file</key><integer>0</integer>
+     </dict>
+     <key>ranges</key>
+     <array>
+       <array>
+        <dict>
+         <key>line</key><integer>101</integer>
+         <key>col</key><integer>29</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+        <dict>
+         <key>line</key><integer>101</integer>
+         <key>col</key><integer>40</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+       </array>
+     </array>
+     <key>extended_message</key>
+     <string>Although the value stored to &apos;dy_xn&apos; is used in the enclosing expression, the value is never actually read from &apos;dy_xn&apos;</string>
+     <key>message</key>
+<string>Although the value stored to &apos;dy_xn&apos; is used in the enclosing expression, the value is never actually read from &apos;dy_xn&apos;</string>
+    </dict>
+   </array>
+   <key>description</key><string>Although the value stored to &apos;dy_xn&apos; is used in the enclosing expression, the value is never actually read from &apos;dy_xn&apos;</string>
+   <key>category</key><string>Dead store</string>
+   <key>type</key><string>Dead nested assignment</string>
+  <key>location</key>
+  <dict>
+   <key>line</key><integer>101</integer>
+   <key>col</key><integer>21</integer>
+   <key>file</key><integer>0</integer>
+  </dict>
+  </dict>
+  <dict>
+   <key>path</key>
+   <array>
+    <dict>
+     <key>kind</key><string>event</string>
+     <key>location</key>
+     <dict>
+      <key>line</key><integer>101</integer>
+      <key>col</key><integer>29</integer>
+      <key>file</key><integer>0</integer>
+     </dict>
+     <key>ranges</key>
+     <array>
+       <array>
+        <dict>
+         <key>line</key><integer>101</integer>
+         <key>col</key><integer>38</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+        <dict>
+         <key>line</key><integer>101</integer>
+         <key>col</key><integer>40</integer>
+         <key>file</key><integer>0</integer>
+        </dict>
+       </array>
+     </array>
+     <key>extended_message</key>
+     <string>Although the value stored to &apos;mdy_xn&apos; is used in the enclosing expression, the value is never actually read from &apos;mdy_xn&apos;</string>
+     <key>message</key>
+<string>Although the value stored to &apos;mdy_xn&apos; is used in the enclosing expression, the value is never actually read from &apos;mdy_xn&apos;</string>
+    </dict>
+   </array>
+   <key>description</key><string>Although the value stored to &apos;mdy_xn&apos; is used in the enclosing expression, the value is never actually read from &apos;mdy_xn&apos;</string>
+   <key>category</key><string>Dead store</string>
+   <key>type</key><string>Dead nested assignment</string>
+  <key>location</key>
+  <dict>
+   <key>line</key><integer>101</integer>
+   <key>col</key><integer>29</integer>
+   <key>file</key><integer>0</integer>
+  </dict>
+  </dict>
+ </array>
+</dict>
+</plist>

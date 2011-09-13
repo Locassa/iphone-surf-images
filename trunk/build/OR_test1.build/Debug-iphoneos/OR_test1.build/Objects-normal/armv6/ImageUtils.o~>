@@ -1,0 +1,5 @@
+In file included from /Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m:9:
+/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:23: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.h:26: error: expected ')' before '*' token
+/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m:85: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+/Users/ishai_jaffe/Documents/tests/OR_test1/../../../Downloads/AugmentedRealitySample/Classes/ImageUtils.m:105: error: expected ')' before '*' token
