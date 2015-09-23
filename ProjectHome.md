@@ -1,0 +1,1 @@
+SURF is a image processing algorithm to detect and describe features, for purposes of image registration.
